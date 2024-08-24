@@ -6,20 +6,20 @@
 		"startBias": ["Tundra"],
 		"preferredVictoryType": "Military",
 		
-		"startIntroPart1": "AARGHHH!",
+		"startIntroPart1": "AAARGH!",
 		"startIntroPart2": "Im vsem pizda!!!",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "NGAAAAH!!!",
+		"attacked": "ARGH!",
+		"defeated": "Arrrrrgh...",
+		"introduction": "ARRRRR! .",
 		
-		"neutralHello": "How are you doing?",
+		"neutralHello": "AAARGH! ",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
 		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
 		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
 
-		"hateHello": "What do you want now?",
+		"hateHello": "NGAAAAAH!!!",
 		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
