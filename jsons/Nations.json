@@ -3,11 +3,11 @@
 		"name": "Crimson infection",
 		"leaderName": "The collective mind",
 		"adjective": ["Infection"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Military",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "AARGHHH!",
+		"startIntroPart2": "Im vsem pizda!!!",
 		
 		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
 		"attacked": "You want to play? Very funny!",
