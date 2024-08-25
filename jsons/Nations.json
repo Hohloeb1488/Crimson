@@ -16,13 +16,13 @@
 		
 		"neutralHello": "AAARGHHH!",
 		"neutralLetsHearIt": "ARRRRR...",
-		"neutralNo": "AAAAARGHH!!(no)",
+		"neutralNo": "AAAAARGH!!(no)",
 		"neutralYes": "ARGH!(yes)",
 
 		"hateHello": "AAAAARGHH!!!",
 		"hateLetsHearIt": "AAARRR!..",
 		"hateNo": "AAAAAAARGHH!!!(no)",
-		"hateYes": "AAARGHH!!(yes)",
+		"hateYes": "AAARGH!!(yes)",
 		
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
