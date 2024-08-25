@@ -24,8 +24,8 @@
 		"hateNo": "AAAAAAARGHH!!!(no)",
 		"hateYes": "AAARGH!!(yes)",
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "Why?",	
+		"tradeRequest": "What the fuck?",
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
