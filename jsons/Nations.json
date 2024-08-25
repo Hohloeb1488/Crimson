@@ -6,13 +6,13 @@
 		"startBias": ["Tundra"],
 		"preferredVictoryType": "Military",
 		
-		"startIntroPart1": "AAARGHHH!",
+		"startIntroPart1": "AAARGHH!",
 		"startIntroPart2": "Im vsem pizda!!!",
 		
-		"declaringWar": "AAAAARGHHH!!!",
+		"declaringWar": "AAAAARGHH!!!",
 		"attacked": "ARGH!",
 		"defeated": "Arrrrrgh...",
-		"introduction": "ARRRRRH!",
+		"introduction": "ARRRRRGH!",
 		
 		"neutralHello": "AAARGHH!",
 		"neutralLetsHearIt": "ARRRRR...",
